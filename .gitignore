@@ -1,0 +1,9 @@
+# Ajutised failid
+*.temp
+*.log
+*~
+
+# Operatsioonisüsteemi loodud failid
+.DS_Store
+Thumbs.db
+Desktop.ini
