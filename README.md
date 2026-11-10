@@ -1,8 +1,9 @@
 # Retseptiraamat
 
-Versioonihalduse kodutöö: retseptiraamat Githubis ja Bitbucketis.
+Versioonihalduse kodutöö: retseptiraamat GitHubis ja Bitbucketis
 
 ## Retseptid
 
 Siia lisame oma lemmikretseptid
 
+- [Pannkoogid](recipes/pannkoogid.md)
