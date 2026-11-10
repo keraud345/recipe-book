@@ -4,4 +4,5 @@ Versioonihalduse kodutöö: retseptiraamat Githubis ja Bitbucketis.
 
 ## Retseptid
 
-Lisanduvad töö käigus
+Siia lisame oma lemmikretseptid
+
